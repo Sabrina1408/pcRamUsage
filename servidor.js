@@ -1,7 +1,7 @@
 const http = require('http'); // Importa o módulo http
 const host = 'http://localhost';
 const port = 3000;
-const stats = require('./pcRumUsage');
+const stats = require('./pcRamUsage');
 
 http.createServer((req, res) => {
     let url = req.url;

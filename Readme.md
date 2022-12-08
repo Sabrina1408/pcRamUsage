@@ -11,7 +11,7 @@
 <ul>
     <li>É necessário ter o NodeJS</li>
     <li>Baixar os arquivos</li>
-    <li>Abrir a pasta dos arquivos com o cmd ou uma IDE</li>
+    <li>Abrir a pasta dos arquivos com o cmd(prompt de comando) ou uma IDE</li>
     <li>Rodar "node servidor"</li>
     <li>Com isso irá aparecer no terminal, mas pode acessa-lo em: http://localhost:3000"</li>
 </ul>
